@@ -2,7 +2,7 @@
 
 [Dataset link](https://github.com/AllThingsDataWithAngelina/DataSource)
 
-Exploring Sales Data in SQL and Tableau | RFM Analysis in SQL 
+Exploring Sales Data in SQL and Tableau | RFM Analysis in SQL <br>
 Skills used : Distinct, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Case When
 Tool used : Ms.SQL, Tableu, Ms.Excel
 
