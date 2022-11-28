@@ -2,8 +2,8 @@
 
 [Dataset link](https://github.com/AllThingsDataWithAngelina/DataSource)
 
-Exploring Sales Data in SQL and Tableau | RFM Analysis in SQL <br>
-Skills used : Distinct, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Case When
+Exploring Sales Data in SQL and Tableau | <strong> RFM Analysis in SQL </strong> <br>
+Skills used : Distinct, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Case When <br>
 Tool used : Ms.SQL, Tableu, Ms.Excel
 
 ## RFM ANALYSIS
@@ -15,4 +15,4 @@ Tool used : Ms.SQL, Tableu, Ms.Excel
 
 Dashboards of Tableau Public : [Dashboards_01](https://public.tableau.com/app/profile/faiz.ramadhan.nasution/viz/Sales_Data_Dashboard_01/SalesDashboard1), [Dashboards_02](https://public.tableau.com/app/profile/faiz.ramadhan.nasution/viz/Sales_Data_Dashboard_02/SalesDashboard2)
 	
-This project is inspired by Angelina Frimpong | Data Analyst Projects [link](https://www.youtube.com/watch?v=O2hlHzehZb0&t=630s)
+This project is inspired by Angelina Frimpong [link](https://www.youtube.com/watch?v=O2hlHzehZb0&t=630s)
