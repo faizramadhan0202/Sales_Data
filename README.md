@@ -3,6 +3,8 @@
 [Dataset link](https://github.com/AllThingsDataWithAngelina/DataSource)
 
 Exploring Sales Data in SQL and Tableau | RFM Analysis in SQL 
+Skills used : Distinct, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Case When
+Tool used : Ms.SQL, Tableu, Ms.Excel
 
 ## RFM ANALYSIS
  <strong> Recency-Frequency-Monetary (RFM) </strong> <br>
